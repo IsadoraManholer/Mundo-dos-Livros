@@ -1,0 +1,26 @@
+  .capa-principal{ 
+      background-color: rgb(25, 25, 94);  
+  }
+
+  .capa-img{
+      width: 20%;
+      display: block;
+      margin: auto;
+      
+      
+  }
+  .capa-nav{
+      text-align: center;
+      border: 2%;
+      
+  }
+  .capa-ul{
+      text-align: center;
+  }
+  .capa-li{
+    font-size: 28px;
+    display: inline-block;
+    margin-right: 0.7rem;
+    margin-bottom: 1.5em;
+    margin-left: 0.7rem;
+  }

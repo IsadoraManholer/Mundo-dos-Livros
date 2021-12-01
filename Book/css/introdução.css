@@ -1,0 +1,97 @@
+.livro-titulo{
+       text-align: center;
+        font-size: 2.0rem;
+        margin: 1.5rem;
+font-family: 'Gentium Book Basic', serif;
+}
+
+.livro-hp{
+    width: 30vw;
+    margin: 0.2rem;
+
+}
+.livro-texto{
+    font-size: 20px;;
+    margin: 1.0rem;
+    font-family: 'Markazi Text', serif;
+
+}
+
+/*segunda-parte*/
+
+.livro-rese{
+    display: flex;
+    margin: 1.5rem;
+    margin-top: 0.5rem;
+    font-family: 'Markazi Text', serif;
+    width:  20vw;
+
+}
+
+.livro-porlugaresincriveis{
+    width:  40vw;
+    display: flex;
+    margin: center;
+}
+
+.livro-texto2{
+    font-size: 20px;
+    font-family: 'Markazi Text', serif;
+    
+}
+.livro-texto3{
+font-size: 20px;
+ font-family:'Markazi Text', serif;
+ margin: 1.5rem;
+ margin-top: 0.5rem; 
+}
+
+.livro-fonte{
+    color: rgb(22, 22, 112);
+}
+.texto{
+    padding: 5px;
+    
+    
+}
+.livro-destaque{
+    font-family: italic;
+    color:rgb(22, 22, 112) ;
+
+}
+
+@media screen and( min-width:768px){
+.texto{
+ padding: 22px;
+}
+.livro-texto3{
+  font-size: 30px;
+ }
+ .livro-porlugaresincriveis{
+  width:30vw ;
+ }
+    
+}
+
+
+@media screen and (min-width:1024px){
+.texto{
+    padding: 22px;
+    
+}
+.livro-texto2{
+    font-size: 25px;
+}
+.livro-texto3{
+    font-size: 30px;
+}
+.livro-hp{
+    width: 15vw;
+}
+.livro-texto{
+    font-size: 30px ;
+}
+.livro-porlugaresincriveis{
+    width: 25vw;
+}
+}

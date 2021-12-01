@@ -1,0 +1,15 @@
+footer, .fotter-img{
+  background-color: rgb(25, 25, 94); 
+  width: 100%; 
+  
+}
+.fotter-img{
+    width: 10%;
+      display: block;
+      margin: auto;
+    
+}
+
+.fotter-text{
+   text-align: center;
+}
